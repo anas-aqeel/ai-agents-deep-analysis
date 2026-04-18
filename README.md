@@ -239,4 +239,4 @@ This documentation repository is MIT licensed. Individual projects have their ow
 
 ---
 
-**Built by [Haris @ FlipIQ](https://github.com/haris) | Deep research powered by AI | Updated April 2026**
+**Built by [Anas Aqeel](https://github.com/anas-aqeel) | Deep research powered by AI | Updated April 2026**
