@@ -3,3 +3,6 @@ context/
 
 # Claude Code local config
 .claude/
+
+# Private business strategy (never publish)
+idea.md
