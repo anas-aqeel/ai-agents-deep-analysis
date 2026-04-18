@@ -1,0 +1,5 @@
+# Source files (PDF, images, extracted text) - not for public repo
+context/
+
+# Claude Code local config
+.claude/
